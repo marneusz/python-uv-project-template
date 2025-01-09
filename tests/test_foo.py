@@ -1,4 +1,4 @@
-from src.foo import foo
+from project_template.foo import foo
 
 
 def test_foo():
