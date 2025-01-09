@@ -1,1 +1,1 @@
-::: src.foo
+::: project_modules
